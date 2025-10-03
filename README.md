@@ -1,16 +1,15 @@
-# React + Vite
+# 🚀 Windbnb con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En esta versión, hemos reconstruido **Windbnb** utilizando **React** 🎉.  
+Si antes lo viste hecho con **Vanilla JS**, ahora puedes explorar cómo se implementaron las mismas funcionalidades con un enfoque más moderno, escalable y reutilizable.
 
-Currently, two official plugins are available:
+👉 Descubre todas las características del sistema visitando el siguiente enlace:  
+[📖 Ver documentación y características en GitHub](https://github.com/ingluispalacio/pt-windbnb/blob/main/readme.md)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+✨ **Diferencia principal**:  
+- **Anterior versión:** Vanilla JS  
+- **Nueva versión:** React ⚛️  
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Con React logramos un mejor manejo de componentes, estados y efectos, lo que hace que la aplicación sea más flexible y mantenible.
