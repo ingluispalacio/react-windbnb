@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import Header from './components/Header'
-import Main from './components/main'
+import Main from './components/Main'
 import Footer from './components/Footer'
 import Drawer from './components/Drawer'
 import Loading from './components/shared/Loading'
